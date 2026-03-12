@@ -368,3 +368,6 @@ Obj/
 Build/
 Builds/
 UserSettings/
+*.csproj
+*.sln
+.vsconfig
