@@ -74,6 +74,7 @@
     <Compile Include="Assets\_Assets\Scripts\Player.cs" />
     <Compile Include="Assets\_Assets\Scripts\Container Counter.cs" />
     <Compile Include="Assets\_Assets\Scripts\GameInput.cs" />
+    <Compile Include="Assets\_Assets\Scripts\Trash Counter.cs" />
     <Compile Include="Assets\_Assets\Scripts\Selected Counter  Visual.cs" />
     <Compile Include="Assets\_Assets\Scripts\CuttinRecipeSO.cs" />
     <Compile Include="Assets\_Assets\Scripts\Kitchen Objects.cs" />

@@ -131,7 +131,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a0bc34c0dbf458418837101d2cd95f8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::LookAtCamera
-  mode: 0
+  mode: 2
 --- !u!1 &2978576322638520947
 GameObject:
   m_ObjectHideFlags: 0

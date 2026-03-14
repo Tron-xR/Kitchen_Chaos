@@ -12,7 +12,7 @@ public class ClearCounter : BaseCounter
             if (player.HasKitchenObject())
             {
                 //player has a kitchen object
-                player.GetKitchenObjects().SetKitchenObjectParent(this);
+                player.GetKitchenObject().SetKitchenObjectParent(this);
             }
             else
             {
@@ -38,7 +38,7 @@ public class ClearCounter : BaseCounter
             else
             {
                 //player doesn't have a kitchen object
-                GetKitchenObjects().SetKitchenObjectParent(player);
+                GetKitchenObject().SetKitchenObjectParent(player);
             }
 
         }
